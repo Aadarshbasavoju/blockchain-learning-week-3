@@ -1,8 +1,7 @@
 # blockchain-learning-week-3
 ## Progress
 
-- Completed exercises related to ERC-20 token development and testing.
-- Conceptualized the architecture for a decentralized banking platform.
+- Completed exercises related to ERC-20 token development and testing
 - Designed smart contracts for depositing, lending, and borrowing.
 
 ## Challenges Encountered
